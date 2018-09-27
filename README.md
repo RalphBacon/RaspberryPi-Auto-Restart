@@ -13,7 +13,8 @@ The solution (so far) is to create a simple plug in standalone module to detect 
 It all works very well (without the UPS power pack) as this video shows. Whether it continues to work with the UPS is another matter and a matter for a future video as I don't actually have the UPS module in my hands yet. This is all about preparation!
 
 # LINKS
-The circuit diagram and partial schematics are in this Github as separate files.
+The circuit diagram and partial schematics are in this Github as separate files.  
+Link to (partial) schematics: https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf  
 
 The Banggood supplied item we will endeavour to implement next video  
 **Geekworm Power Pack Pro V1.1 Lithium Battery Power Source UPS HAT**  

@@ -18,7 +18,7 @@ Link to (partial) schematics: https://www.raspberrypi.org/documentation/hardware
 
 The Banggood supplied item we will endeavour to implement next video  
 **Geekworm Power Pack Pro V1.1 Lithium Battery Power Source UPS HAT**  
-https://ban.ggood.vip/42np (This is an affiliate link)
+https://ban.ggood.vip/42np (This is an affiliate link - if you click it and order the item within 14 days I get a tiny commission!)
 
 Tinkerkman website, regarding this exact UPS pack. He made me think it was OK to use a Tiny85 as the solution rather than a bunch of discrete transistors, logic gates and the like.  
 http://tinkerman.cat/geekworm-power-pack-hat-hack/#lightbox-gallery-MVLP8JIF/2/

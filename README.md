@@ -2,7 +2,7 @@
 If your Pi lies dormant this will ensure it powers up again
 
 # See video #122 at https://www.youtube.com/ralphbacon  
-(Direct link to video: )
+(Direct link to video: https://youtu.be/9IWn5GYktUo)
 
 So I'm adding UPS (Uninterruptable Power Supply) capability to my Raspberry Pi Model 3B+ but have hit a bit of a snag.
 

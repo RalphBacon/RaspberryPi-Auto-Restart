@@ -22,3 +22,11 @@ https://ban.ggood.vip/42np (This is an affiliate link - if you click it and orde
 
 Tinkerkman website, regarding this exact UPS pack. He made me think it was OK to use a Tiny85 as the solution rather than a bunch of discrete transistors, logic gates and the like.  
 http://tinkerman.cat/geekworm-power-pack-hat-hack/#lightbox-gallery-MVLP8JIF/2/
+
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so :)
+
+**My channel and blog are here:**  
+------------------------------------------------------------------  
+https://www.youtube.com/RalphBacon  
+https://ralphbacon.blog  
+------------------------------------------------------------------ 
